@@ -2,7 +2,7 @@ package pdd_8_11;
 
 import java.util.Scanner;
 
-public class No2 {
+public class No3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -19,7 +19,6 @@ public class No2 {
 			System.out.print(input[i] + " ");
 		}
 		//Ëã·¨¹ý³Ì
-		
 	}
 
 }
